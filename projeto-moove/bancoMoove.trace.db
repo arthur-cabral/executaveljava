@@ -1,0 +1,9 @@
+2020-10-27 08:05:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CADASTRO" not found; SQL statement:
+insert into cadastro (nome,email,usuario,senha) values (?,?,?,?) [42102-200]
+2020-10-27 08:05:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CADASTRO" not found; SQL statement:
+insert into cadastro (nome,email,usuario,senha) values (?,?,?,?) [42102-200]
+2020-10-27 08:06:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CADASTRO" not found; SQL statement:
+insert into cadastro (nome,email,usuario,senha) values (?,?,?,?) [42102-200]
