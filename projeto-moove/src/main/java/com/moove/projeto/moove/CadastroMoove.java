@@ -57,8 +57,8 @@ void ConexaoBanco() {
         jLabel1.setBackground(new java.awt.Color(0, 102, 255));
         jLabel1.setFont(new java.awt.Font("Berlin Sans FB", 0, 18)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(33, 230, 193));
-        jLabel1.setText("copyright © 2020 todos os direitos reservados");
-        jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 410, 340, 30));
+        jLabel1.setText("copyright © 2020 ");
+        jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 400, 160, 30));
 
         jSeparator1.setBackground(new java.awt.Color(33, 230, 193));
         jPanel1.add(jSeparator1, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 70, 450, 30));
@@ -68,7 +68,7 @@ void ConexaoBanco() {
         jLabel2.setFont(new java.awt.Font("Berlin Sans FB", 0, 24)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(33, 230, 193));
         jLabel2.setText("Moove");
-        jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(270, 20, 70, 50));
+        jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 20, 90, 50));
 
         jLabel3.setBackground(new java.awt.Color(0, 102, 255));
         jLabel3.setFont(new java.awt.Font("Berlin Sans FB", 0, 24)); // NOI18N
@@ -90,20 +90,20 @@ void ConexaoBanco() {
         jLabel4.setFont(new java.awt.Font("Berlin Sans FB", 0, 24)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(33, 230, 193));
         jLabel4.setText("Senha");
-        jPanel1.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 270, 70, 30));
+        jPanel1.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 270, 80, 30));
 
         jLabel5.setBackground(new java.awt.Color(0, 102, 255));
         jLabel5.setFont(new java.awt.Font("Berlin Sans FB", 0, 24)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(33, 230, 193));
         jLabel5.setText("Nome");
-        jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 170, 70, 30));
+        jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 170, 80, 30));
         jPanel1.add(TFemail, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 220, 210, 30));
 
         jLabel6.setBackground(new java.awt.Color(0, 102, 255));
         jLabel6.setFont(new java.awt.Font("Berlin Sans FB", 0, 24)); // NOI18N
         jLabel6.setForeground(new java.awt.Color(33, 230, 193));
         jLabel6.setText("Email");
-        jPanel1.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 220, 70, 30));
+        jPanel1.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 220, 80, 30));
 
         TFsenha.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
